@@ -1,4 +1,0 @@
-aaccount Number Name
-1001           Eshwar
-1002           Srishti
-
