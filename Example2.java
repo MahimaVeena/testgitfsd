@@ -49,7 +49,7 @@ public class Example2 {
 			
 			else {
 				list.add(l2.get(j));
-				
+				list.add(l2.get(j));
 					j++;
 					i++;
 			}
